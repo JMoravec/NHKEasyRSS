@@ -1,0 +1,235 @@
+status: 200
+content-location: http://www3.nhk.or.jp/news/easy/k10010045751000/k10010045751000.html
+content-type: text/html
+date: Fri, 24 Apr 2015 19:52:23 GMT
+content-length: 14172
+access-control-allow-methods: GET, POST
+access-control-allow-origin: *
+connection: keep-alive
+accept-ranges: bytes
+etag: "5040e9-375c-51472f8f227eb"
+access-control-allow-headers: Origin, X-Requested-With, Content-Type, Accept
+last-modified: Fri, 24 Apr 2015 07:01:59 GMT
+server: Apache
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="copyright" content="日本放送協会" />
+<meta name="title" content="NHK NEWS WEB " />
+<meta name="description" content="パナマで１１日、アメリカのオバマ大統領とキューバのラウル・カストロ国家評議会議長が話し合いをしました。１９６１年に国のつきあいをやめてから、..." />
+<meta name="keywords" content="ＮＨＫ,ニュース,ＮＨＫニュース,NHK NEWS WEB,子ども,やさしい,ことば,小学生,中学生,Japanese,learn,lesson" />
+<meta name="shorturl"content="http://www3.nhk.or.jp/news/easy/k10010045751000/k10010045751000.html" />
+<title>NEWS WEB EASY|アメリカのオバマ大統領とキューバのカストロ議長が会う</title>
+<link rel="stylesheet" type="text/css" href="../css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/mt_enq_main.css" />
+<script type="text/javascript">
+var g_dicFname = "k10010045751000.out.json";
+</script>
+<script src="../scripts/mt_std.js" type="text/javascript"></script>
+<script src="../scripts/swfobject.js" type="text/javascript"></script>
+<script src="../scripts/player_easy.js" type="text/javascript"></script>
+<script src="../scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+<script src="../scripts/jquery.cookie.js" type="text/javascript"></script>
+<script src="../scripts/common.js" type="text/javascript"></script>
+<script src="../scripts/article.js" type="text/javascript"></script>
+<script src="../scripts/mt_ajx.js" type="text/javascript"></script>
+<script src="../scripts/mt_enq_main.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www9.nhk.or.jp/common/social/js/social_buttons.js" charset="UTF-8"></script>
+<script type="text/javascript" src="/common/tc/g.js" charset="UTF-8"></script>
+<!--[if IE 6]>
+<script src="../scripts/DD_belatedPNG.js"></script>
+<script>
+DD_belatedPNG.fix('img, .png_bg, .head, h3, .playBT, .majorNews li, .majorNews li a');
+</script>
+<![endif]-->
+</head>
+<body id="news20150413_k10010045751000" class="detail">
+<div class="contentWrap"> <a name="pagetop" id="pagetop"></a>
+  <div class="header">
+    <div class="wrapper">
+      <p id="logo"><a href="http://www3.nhk.or.jp/news/index.html"><img src="http://www3.nhk.or.jp/news/images/logo.png" alt="NHK NEWS WEB" /></a></p>
+      <div id="pageTime">
+        <p id="trad"></p>
+      </div>
+      <div id="options">
+        <div id="snsLike"></div>
+      </div>
+      <div id="snsBtn">
+        <script type="text/javascript">showSNS(_social);</script>
+      </div>
+      <div id="subMenu"></div>
+    </div>
+  </div>
+  <div class="wrapper">
+    <h1 class="easylogo"><a href="../index.html"><img src="../img/logo_easy.png" alt="NEWS WEB EASY" /></a></h1>
+    <p id="aboutThisSite"><a href="javascript:void(0)">NEWS WEB EASY について</a></p>
+    <div id="content">
+      <div id="mainTop">
+        <div id="mainBottom">
+          <div id="main">
+            <div id="newstitle">
+              <h2>アメリカのオバマ<ruby>大統領<rt>だいとうりょう</rt></ruby>とキューバのカストロ<ruby>議長<rt>ぎちょう</rt></ruby>が<ruby>会<rt>あ</rt></ruby>う</h2>
+              <p id="newsDate">[04月13日 18時00分]</p>
+            </div>
+            <div id="regularnews">
+              <p><a href="http://www3.nhk.or.jp/news/html/20150412/k10010045751000.html" target="_blank">通常のニュース原稿はこちら</a></p>
+            </div>
+            <p id="mainimg"><img src="http://www3.nhk.or.jp/news/html/20150412/K10010045751_1504121946_1504121949_01_03.jpg" alt="記事タイトル"/><a href="javascript:void(0)" onclick="showVideo(this);" id="k10010045751_201504121946_201504121949.mp4" class="playBT"></a></p>
+            <div id="newswrap" class="coloroff">
+              <!-- coloronで特定spanに色づけ　coloroffで色なし -->
+              <div id="soundkana">
+                <div id="sound">
+                  <p style="padding:15px;">本ホームページをご利用になるには、最新のFlash Playerが必要です。<br />
+                    <a href="http://www.adobe.com/go/getflashplayer"><img src="../img/get_flash_player.gif" alt="" /></a><br />
+                    上のバナーを押すとNHKを離れます。</p>
+                </div>
+                <p id="kana"><a href="javascript:void(0)" id="chColor">言葉の色分け</a><a href="javascript:void(0);" id="help">言葉の色分けの使い方</a></p>
+              </div>
+              <div id="newsarticle">
+<p><span class='colorL'>パナマ</span>で１１<ruby>日<rt>にち</rt></ruby>、<span class='colorL'>アメリカ</span>の<span class='colorN'>オバマ</span><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby><span class="under">大統領</span><rt>だいとうりょう</rt></ruby></a>と<span class='colorL'>キューバ</span>の<span class='colorN'>ラウル</span>・<span class='colorN'>カストロ</span><ruby>国家評議会議長<rt>こっかひょうぎかいぎちょう</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby><span class="under">話</span><rt>はな</rt></ruby><span class="under">し</span><ruby><span class="under">合</span><rt>あ</rt></ruby><span class="under">い</span></a>をしました。１９６１<ruby>年<rt>ねん</rt></ruby>に<ruby>国<rt>くに</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><span class="under">つきあい</span></a>をやめてから、<span class='colorL'>アメリカ</span>と<span class='colorL'>キューバ</span>の<a href='javascript:void(0)' class='dicWin' id='id-0003'><span class="under">トップ</span></a>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby><span class="under">話</span><rt>はな</rt></ruby><span class="under">し</span><ruby><span class="under">合</span><rt>あ</rt></ruby><span class="under">い</span></a>をしたのは<ruby>初<rt>はじ</rt></ruby>めてです。</p>
+<p><ruby>２人<rt>ふたり</rt></ruby>は、<span class='colorL'>アメリカ</span>と<span class='colorL'>キューバ</span>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><span class="under">つきあい</span></a>を<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby><span class="under">進</span><rt>すす</rt></ruby><span class="under">め</span></a>て、<ruby>大使館<rt>たいしかん</rt></ruby>を<ruby>早<rt>はや</rt></ruby>く<ruby>作<rt>つく</rt></ruby>るための<a href='javascript:void(0)' class='dicWin' id='id-0005'><ruby><span class="under">努力</span><rt>どりょく</rt></ruby></a>をしようと<ruby>話<rt>はな</rt></ruby>しました。</p>
+<p><span class='colorL'>アメリカ</span>は<span class='colorL'>キューバ</span>を「<a href='javascript:void(0)' class='dicWin' id='id-0006'><span class="under">テロ</span></a>に<a href='javascript:void(0)' class='dicWin' id='id-0007'><ruby><span class="under">協力</span><rt>きょうりょく</rt></ruby></a>する<ruby>国<rt>くに</rt></ruby>」だと<ruby>言<rt>い</rt></ruby>って、<ruby>経済制裁<rt>けいざいせいさい</rt></ruby>（＝<ruby>貿易<rt>ぼうえき</rt></ruby>や<ruby>人<rt>ひと</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0008'><ruby><span class="under">交流</span><rt>こうりゅう</rt></ruby></a>などをやめること）をしているため、<span class='colorL'>キューバ</span>の<ruby>経済<rt>けいざい</rt></ruby>は<ruby>長<rt>なが</rt></ruby>い<ruby>間<rt>あいだ</rt></ruby>、<a href='javascript:void(0)' class='dicWin' id='id-0009'><ruby><span class="under">苦</span><rt>くる</rt></ruby><span class="under">しい</span></a>ままです。<span class='colorN'>オバマ</span><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby><span class="under">大統領</span><rt>だいとうりょう</rt></ruby></a>は、<span class='colorL'>キューバ</span>を「<a href='javascript:void(0)' class='dicWin' id='id-0006'><span class="under">テロ</span></a>に<a href='javascript:void(0)' class='dicWin' id='id-0007'><ruby><span class="under">協力</span><rt>きょうりょく</rt></ruby></a>する<ruby>国<rt>くに</rt></ruby>」から<a href='javascript:void(0)' class='dicWin' id='id-0010'><ruby><span class="under">外</span><rt>はず</rt></ruby><span class="under">す</span></a>かどうか、もうすぐ<ruby>決<rt>き</rt></ruby>めると<ruby>言<rt>い</rt></ruby>っています。</p>
+<p></p>
+<p></p>
+<p></p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="pagemove">
+          <div>
+          <p class="prev"></p>
+          <p class="next"></p>
+          </div>
+<div class="pagemoveBG">
+<img src="../img/bg_pagemove.png" alt=" " />
+</div>
+        </div>
+      </div>
+      <div id="side">
+        <div class="majorNews">
+          <h2><img src="../img/img_side_majornews.png" alt="主（おも）なニュース" /></h2>
+          <ul>
+          </ul>
+        </div>
+        <div class="monthly">
+          <h2><img src="../img/img_side_monthlynews.png" alt="1か月（いっかげつ）のニュース" /></h2>
+          <div class="unit">
+          <div class="date">
+            <h3></h3>
+            <p class="prev"><a id="prev" href="javascript:void(0);" onclick="g_f.moveNP(this); return false;"><span>前（まえ）の日（ひ）</span></a></p>
+            <p class="next"><a id="next" href="javascript:void(0);" onclick="g_f.moveNP(this); return false;"><span>次（つぎ）の日（ひ）</span></a></p>
+          </div>
+          <ul>
+          </ul>
+        </div>
+        </div>
+      </div>
+    </div>
+    <div id="survey"></div>
+        <div id="enq_answer_disp"><div id="enq_bt_answer" style="height: 50px; width: 147px; margin-top: 236px; margin-left: 62px;" onclick="g_f.miframe();"></div></div>
+    <div id="enq_ansbak">
+    	<div id="main_enqdiv">
+	    <h3>このニュースはわかりやすいですか？</h3>
+	    <table id="enq1">
+	    <tr>
+	    <td><img src="../easy_enq/enq_img/resultcolor_red01.png" width="8" height="14" border="0"></td><td>とてもわかりやすい</td>
+	    <td><img src="../easy_enq/enq_img/resultcolor_yellow01.png" width="8" height="14" border="0"></td><td>わかりやすい</td>
+	    <td><img src="../easy_enq/enq_img/resultcolor_green01.png" width="8" height="14" border="0"></td><td>ふつう</td>
+	    <td><img src="../easy_enq/enq_img/resultcolor_bluegreen01.png" width="8" height="14" border="0"></td><td>わかりにくい</td>
+	    <td><img src="../easy_enq/enq_img/resultcolor_blue01.png" width="8" height="14" border="0"></td><td>ぜんぜんわからない</td>
+	    </tr>
+    	</table>
+    	<div id="easy_rikai">
+    		<div style="width: 100%; height: 29px; background-color: rgb(153, 153, 153);"></div>
+    	</div>
+    	<img src="../easy_enq/enq_img/line.png"  style="margin-bottom: 10px; width: 641px;">
+	    <h3>このニュースに興味（きょうみ）がありますか？</h3>
+	    <table id="enq2">
+	    <tr>
+	    <td><img src="../easy_enq/enq_img/resultcolor_red01.png" width="8" height="14" border="0"></td><td>とてもある</td>
+	    <td><img src="../easy_enq/enq_img/resultcolor_yellow01.png" width="8" height="14" border="0"></td><td>すこしある</td>
+	    <td><img src="../easy_enq/enq_img/resultcolor_green01.png" width="8" height="14" border="0"></td><td>あまりない</td>
+	    <td><img src="../easy_enq/enq_img/resultcolor_bluegreen01.png" width="8" height="14" border="0"></td><td>ぜんぜんない</td>
+	    </tr>
+	    </table>
+	    <div id="easy_kyoumi">
+	    	<div style="width: 100%; height: 29px; background-color: rgb(153, 153, 153);"></div>
+	    </div>
+	    </div>
+		</div>
+
+    <div id="bottom">
+      <p>「NEWS WEB EASY」は、
+        <ruby>小学生
+          <rt>しょうがくせい</rt>
+        </ruby>
+        ・
+        <ruby>中学生
+          <rt>ちゅうがくせい</rt>
+        </ruby>
+        のみなさんや、
+        <ruby>日本
+          <rt>にっぽん</rt>
+        </ruby>
+        に
+        <ruby>住
+          <rt>す</rt>
+        </ruby>
+        んでいる
+        <ruby>外国人
+          <rt>がいこくじん</rt>
+        </ruby>
+        のみなさんに、<br />
+        わかりやすいことばでニュースを
+        <ruby>伝
+          <rt>つた</rt>
+        </ruby>
+        えるウェブサイトです。</p>
+      <p>
+        <ruby>注意
+          <rt>ちゅうい</rt>
+        </ruby>
+        ：
+        <ruby>漢字
+          <rt>かんじ</rt>
+        </ruby>
+        の
+        <ruby>読
+          <rt>よ</rt>
+        </ruby>
+        み
+        <ruby>方
+          <rt>かた</rt>
+        </ruby>
+        などが
+        <ruby>正
+          <rt>ただ</rt>
+        </ruby>
+        しく
+        <ruby>出
+          <rt>で</rt>
+        </ruby>
+        ないブラウザーもあります。</p>
+    </div>
+  </div>
+  <div id="footer">
+    <p class="copyright"> <a href="http://www.nhk.or.jp/css/">ご意見・お問い合わせ</a> ｜ <a href="http://www.nhk.or.jp/privacy/">NHK における個人情報保護について</a> ｜ <a href="http://www.nhk.or.jp/toppage/nhk_info/copyright.html">放送番組と著作権</a> ｜ <a href="http://www3.nhk.or.jp/toppage/notice.html">NHK オンライン利用上の注意</a> </p>
+    <p class="copyright"> <a href="http://www.nhk.or.jp/"><img src="../img/logo_nhk.png" alt="NHKオンライントップ" /></a>Copyright NHK (Japan Broadcasting Corporation) All rights reserved.  許可なく転載することを禁じます。 </p>
+  </div>
+</div>
+<div id="dicBox">
+  <div id="dicWrap">
+    <div id="dicContent">
+      <!---->
+    </div>
+  </div>
+</div>
+<div id="to_mail">	
+</div>
+<div class="pagetop"><a href="#pagetop">このページの先頭へ</a></div>
+</body>
+</html>
