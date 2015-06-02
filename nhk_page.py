@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 import datetime
 import httplib2
 
-__author__ = 'joshua'
 
 def get_and_parse_page(link_to_page):
     h = httplib2.Http()
