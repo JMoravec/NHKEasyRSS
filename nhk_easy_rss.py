@@ -2,6 +2,7 @@ from datetime import datetime
 import sqlite3
 
 import yaml
+
 from bs4 import BeautifulSoup
 
 from create_new_feed import create_new_feed
@@ -68,11 +69,11 @@ if __name__ == '__main__':
     config = yaml.load(open('config.yaml'))
     create_new_feed()
     today = datetime.now().strftime('%Y-%m-%d')
-    if create_db_date_entry(today):
-        links = get_todays_links(config['nhk_json'], today)
-        if links:
-            for link in links:
-                if create_db_link_entry(link, today):
-                    link_title, link_article, link_img = get_and_parse_page(link)
-                    link_new_entry = create_new_entry(link_title, link_article, link, link_img)
-                    add_new_entry_to_feed(link_new_entry)
+    create_db_date_entry(today)
+    links = get_todays_links(config['nhk_json'], today)
+    if links:
+        for link in links:
+            if create_db_link_entry(link, today):
+                link_title, link_article, link_img = get_and_parse_page(link)
+                link_new_entry = create_new_entry(link_title, link_article, link, link_img)
+                add_new_entry_to_feed(link_new_entry)
