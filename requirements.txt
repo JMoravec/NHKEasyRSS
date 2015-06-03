@@ -1,0 +1,5 @@
+PyYAML
+beautifulsoup4
+httplib2
+pip
+setuptools
