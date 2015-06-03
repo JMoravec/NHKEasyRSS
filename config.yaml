@@ -1,8 +1,8 @@
-feed_location: /Users/joshuamoravec/test/test.xml
+feed_location: /path/to/nhkfeed.xml
 feed_title: NHK Easy
-feed_id: www.jmoravec.ddns.net
+feed_id: www.example.com
 feed_xml:  <?xml version="1.0" encoding="utf-8"?>
 nhk_root: http://www3.nhk.or.jp/news/easy/
 nhk_main: http://www3.nhk.or.jp/news/easy/index.html
 nhk_json: http://www3.nhk.or.jp/news/easy/news-list.json
-db_file: /Users/joshuamoravec/test/testdb.db
+db_file: /path/to/nhkfeed.db

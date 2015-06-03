@@ -1,14 +1,13 @@
-import datetime
 import json
+
 import httplib2
 import yaml
 
 
-def get_todays_links(link):
+def get_todays_links(link, today):
     config = yaml.load(open('config.yaml'))
     links = []
-    today = datetime.datetime.now().strftime('%Y-%m-%d')
-    today = '2015-05-29'
+
     h = httplib2.Http()
     (resp_headers, content) = h.request(link, 'get')
     try:
