@@ -74,5 +74,5 @@ if __name__ == '__main__':
             for link in links:
                 if create_db_link_entry(link, today):
                     link_title, link_article, link_img = get_and_parse_page(link)
-                    link_new_entry = create_new_entry(link_title, link_article, link_img)
+                    link_new_entry = create_new_entry(link_title, link_article, link, link_img)
                     add_new_entry_to_feed(link_new_entry)
